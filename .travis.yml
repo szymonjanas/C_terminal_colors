@@ -1,6 +1,6 @@
 launguage: c
 dist: trusty
-sudo: true
+sudo: required
 os: linux
 
 install:
@@ -12,4 +12,3 @@ script:
   - cmake ..
   - make
   - ./color
-  
