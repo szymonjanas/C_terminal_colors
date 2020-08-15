@@ -1,4 +1,5 @@
 # C launguage Terminal / Console Colors
+[![Build Status](https://travis-ci.com/szymonjanas/C_terminal_colors.svg?branch=master)](https://travis-ci.com/szymonjanas/C_terminal_colors)
 > Simple library for creating more colorful console logs. 
 
 ## Screenshots
