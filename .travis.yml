@@ -1,0 +1,15 @@
+launguage: c
+dist: trusty
+sudo: true
+os: linux
+
+install:
+  - sudo apt install gcc cmake
+
+script:
+  - mkdir build
+  - cd build
+  - cmake ..
+  - make
+  - ./color
+  
