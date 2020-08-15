@@ -30,4 +30,5 @@ int main(){
     printf(c_color(c_yellow_light, "[%i] WARNING: %s \n"), num, message);
     printf(c_color(c_cyan_light, "[%i] DEGUB: %s \n"), num, message);
 
+    return 0;
 }
