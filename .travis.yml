@@ -4,7 +4,7 @@ sudo: required
 os: linux
 
 install:
-  - sudo apt install gcc cmake
+  - sudo apt install g++ gcc cmake
 
 script:
   - mkdir build
